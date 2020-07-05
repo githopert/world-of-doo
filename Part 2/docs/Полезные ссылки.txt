@@ -1,0 +1,9 @@
+- Документация движка Pygame: https://www.pygame.org/docs/
+
+- Документация движка Pymunk: http://www.pymunk.org/en/latest/pymunk.html
+
+- Примеры использования Pymunk (в том числе и constraints.py) в официальном репозитории: https://github.com/viblo/pymunk/tree/master/examples
+
+- Документация движка Chipmunk (более подробно описаны используемые классы и методы): https://chipmunk-physics.net/release/ChipmunkLatest-Docs/
+
+- Мой сайт, на котором периодически появляются текстовые варианты уроков: http://fathopert.dx.am/
